@@ -127,8 +127,8 @@ $$X = [\log(1 + \text{Recency}), \log(1 + \text{Frequency}), \log(1 + \text{Mone
 ### C. Time Series Forecasting & SHAP
 
 * **Target Variable:**
-
-$$\text{Target} = \log(1 + \text{Daily\_Revenue})$$
+* 
+  $$\text{Target} = \log(1 + \text{Daily Revenue})$$
 
 
 * **Feature Matrix:** `lag_1`, `lag_7`, `lag_30`, `rolling_mean_7`, `rolling_mean_30`.
