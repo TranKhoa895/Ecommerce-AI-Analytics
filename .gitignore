@@ -1,0 +1,11 @@
+# Python Virtual Environment
+.venv/
+__pycache__/
+*.pyc
+
+# MLflow Logs & Artifacts
+mlruns/
+mlflow.db
+
+# Large Raw Data
+data/data.csv

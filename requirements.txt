@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+pandas
+numpy
+scikit-learn
+lightgbm
+pyarrow
+streamlit
+shap
+plotly
+matplotlib
+requests
+mlflow
