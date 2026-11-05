@@ -1,6 +1,3 @@
-Dưới đây là toàn bộ nội dung file **`README.md`** đã được chuẩn hóa, hoàn thiện và tích hợp đầy đủ thông tin kinh doanh, toán học, MLOps pipeline và quy trình vận hành:
-
-
 # 📊 E-Commerce AI Analytics & Real-Time Recommendation System
 
 Hệ thống Phân tích & Gợi ý Sản phẩm thời gian thực cho E-Commerce: Tích hợp thuật toán Machine Learning (LightGBM, K-Means, Co-occurrence/TF-IDF), API Backend (FastAPI), Giải thích mô hình (SHAP) và Giao diện Dashboard quản trị (Streamlit).
